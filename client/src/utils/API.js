@@ -18,7 +18,7 @@ export const createUser = (userData) => {
   });
 };
 
-export const loginUser = (userData) => {
+export const UserLogin = (userData) => {
   return fetch('/api/users/login', {
     method: 'POST',
     headers: {
