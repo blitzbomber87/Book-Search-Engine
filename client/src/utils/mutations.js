@@ -14,3 +14,20 @@ export const UserLogin = gql`
 
 `;
 
+export const AddUser = gql`
+    mutation addUser($username: String!, $password: String!, $email: String!) {
+        addUser(username: $username, password: $password, email: $email) {
+            token
+            user {
+                _id
+                username
+                email
+            }
+        }
+    }
+`;
+
+export const SaveBook = gql`
+mutation saveBook($input:  )
+
+`
