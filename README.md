@@ -23,6 +23,18 @@ SO THAT I can keep a list of books to purchase
 
 Render Deploy Link here....https://book-search-engine-vgce.onrender.com
 
+Homepage with search bar
+
+![homepage](https://github.com/user-attachments/assets/390c2653-34b9-4099-b44c-fed0983c5ad6)
+
+Book Results page
+
+![results](https://github.com/user-attachments/assets/e361ee7e-df8e-4ed9-b449-fe33e706758c)
+
+Login/Signup Form
+![login/signip](https://github.com/user-attachments/assets/53c6d43d-7a62-480e-9a00-7803d16cebc5)
+
+
 ## Credits
 Eli - https://github.com/blitzbomber87
 
